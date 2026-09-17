@@ -4,6 +4,8 @@ To simulate a Hartley Oscillator and to obtain the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
+<img width="1039" height="1280" alt="WhatsApp Image 2026-09-17 at 18 27 46" src="https://github.com/user-attachments/assets/a12b1d3d-dbab-4e9d-9216-e08598886f49" />
+
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
@@ -39,7 +41,13 @@ PC with LT Spice software
 33.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 34.	## THEORITICAL CALCULATION:
-35.	
+35.	<img width="960" height="1280" alt="WhatsApp Image 2026-09-17 at 18 18 45" src="https://github.com/user-attachments/assets/8889d3d8-11e7-47c4-96c7-ee6dd49991f3" />
+
+36.	
 37.	## OUTPUTS:
-38.	
+38.	<img width="1280" height="580" alt="WhatsApp Image 2026-09-17 at 18 27 47" src="https://github.com/user-attachments/assets/1940546f-e9a7-4b2d-9690-514c3c208d08" />
+
+39.	
 40.	## RESULT:
+41.	<img width="1201" height="545" alt="WhatsApp Image 2026-09-17 at 18 27 47 (1)" src="https://github.com/user-attachments/assets/21849c74-b5e2-46c4-aae2-300a3e1730a7" />
+
